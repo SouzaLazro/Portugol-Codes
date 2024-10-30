@@ -24,4 +24,4 @@ programa
  * @SIMBOLOS-INSPECIONADOS = {num1, 6, 9, 4}-{num2, 6, 15, 4};
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
  * @FILTRO-ARVORE-TIPOS-DE-SIMBOLO = variavel, vetor, matriz, funcao;
- */
+ */ 
